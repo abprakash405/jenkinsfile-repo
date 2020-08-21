@@ -1,6 +1,6 @@
 @Library('shared-library@feature/branch1')_
 Pipeline{
-	name = "AspireNew Technologies"
+	reponame = "maven-war"
 	rollno = "123"
 }
 
